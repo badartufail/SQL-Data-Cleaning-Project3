@@ -3,7 +3,7 @@
 /*
 Data Cleaning
 
-Skills used: Date formatting, Replacing Nulls, Extracing /breaking down column data, Updating records, Removing duplicates, Adding/Removing columns,
+Skills used: Date formatting, Replacing Nulls, Extracing /breaking down column data, Updating records, Removing duplicates, Adding/Removing columns
 
 */
 
